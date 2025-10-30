@@ -469,7 +469,6 @@ Delivered a presentation to secondary education students on:
 ## 🏆 Academic Achievements
 
 - ✅ **Doctoral research** in a prestigious CSIC research center
-- ✅ **International research experience** in Czech Republic
 - ✅ **Multidisciplinary education** spanning molecular biology, biotechnology, and education
 - ✅ **Continuous professional development** through specialized courses
 - ✅ **Teaching qualification** for secondary education

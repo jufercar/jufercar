@@ -1,6 +1,6 @@
 # Professional Experience
 
-## � Table of Contents
+## 📑 Table of Contents
 
 - [🔬 Research Positions](#-research-positions)
   - [Research Staff - IQF CSIC (Dec 2024 - Present)](#research-staff)
@@ -15,7 +15,7 @@
 
 ---
 
-## �🔬 Research Positions
+## 🔬 Research Positions
 
 ---
 
