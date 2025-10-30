@@ -29,12 +29,6 @@
 - 💻 Utilizing specialized software for structural biology assays
 - 🎯 Analyzing enzybiotics-peptidoglycan interactions
 
-#### Technologies & Methods
-- Structural modeling software (Mercury, WinCoot)
-- Crystallographic analysis
-- Computational chemistry approaches
-- Protein-ligand interaction studies
-
 #### Impact
 Working on cutting-edge research to advance drug discovery through computational structural biology, contributing to the development of novel therapeutic approaches.
 
@@ -73,13 +67,6 @@ Investigation of **vesicular traffic in *Aspergillus nidulans***, focusing on fu
 - 👥 Supervised undergraduate and master's students
 - 📝 Contributed to scientific publications and presentations
 - 🤝 Collaborated with interdisciplinary research teams
-
-#### Skills Developed
-- Advanced microscopy techniques
-- Bioinformatics pipeline development
-- Data analysis and visualization
-- Scientific writing and communication
-- Project management
 
 **[Learn more about CIB-CSIC](https://www.cib.csic.es/)**
 
@@ -120,14 +107,7 @@ Contributed to the development of molecular diagnostic methods for aerospace-rel
 #### Responsibilities
 - 📚 Taught **mathematics** at secondary education level
 - 👨‍🏫 Developed lesson plans and educational materials
-- 🎯 Mentored students in problem-solving and critical thinking
 - 📊 Assessed student performance and provided constructive feedback
-
-#### Skills Applied
-- Communication and presentation skills
-- Curriculum development
-- Student mentorship
-- Time management and organization
 
 ---
 
