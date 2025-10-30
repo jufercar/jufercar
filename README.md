@@ -5,7 +5,6 @@
 > *Independent researcher in molecular biology and microbiology with expertise in cell biology, structural modeling, and computational biology. Passionate about leveraging cutting-edge technologies to solve complex biological challenges.*
 
 [![Email](https://img.shields.io/badge/Email-juanfernandezcarrillo%40gmail.com-blue)](mailto:juanfernandezcarrillo@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B34%20659254816-green)](tel:+34659254816)
 [![Location](https://img.shields.io/badge/Location-Madrid%2C%20Spain-red)](https://maps.google.com/?q=Madrid,Spain)
 
 ---
@@ -80,7 +79,6 @@ competencies = {
 I'm always open to discussing research collaborations, innovative projects, or opportunities in biotechnology and bioinformatics.
 
 - **Email**: [juanfernandezcarrillo@gmail.com](mailto:juanfernandezcarrillo@gmail.com)
-- **Phone**: +34 659 254 816
 - **Location**: Madrid, Spain
 
 ---
