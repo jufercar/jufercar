@@ -105,8 +105,14 @@ Contributed to the development of molecular diagnostic methods for aerospace-rel
 - 🧪 Assisted in experimental design and data analysis.
 - 🤝 Collaborated with international research team.
 
+#### Skills Gained
+- International research collaboration
+- Advanced microscopy techniques
+- Cross-cultural communication
+- Independent research capabilities
 
 **[Visit Group Website](http://www.firstfloorlab.com/)**
+
 ---
 
 ## 📈 Career Timeline

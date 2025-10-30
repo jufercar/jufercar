@@ -21,6 +21,23 @@
 - [🏆 Academic Achievements](#-academic-achievements)
 - [🎯 Skills Acquired Through Education](#-skills-acquired-through-education)
 
+
+## 📑 Quick Navigation
+
+**Current Studies** | **Degrees** | **Certifications** | **Training** | **Timeline**
+---|---|---|---|---
+[AI Master (UNIR)](#masters-in-artificial-intelligence) | [PhD](#phd-in-microbiology-and-parasitology) | [Microcredentials](#-microcredentials--professional-certifications-2025) | [Workshops](#professional-workshops--events-2025) | [Timeline](#-academic-timeline)
+[Data Science Bootcamp](#data-analysis--artificial-intelligence-bootcamp) | [Master's Degrees](#masters-degrees) | | [Technical Training](#advanced-technical-training) | [Achievements](#-academic-achievements)
+| | [Bachelor's](#bachelors-in-biotechnology) | | [Teaching](#-teaching--outreach) | [Skills](#-skills-acquired-through-education)
+
+
+## 📑 Navigation
+
+🎓 **[Current Education (2025)](#-current-studies-2025---present)** → Master's AI + Bootcamp  
+📚 **[Academic Degrees](#doctoral-studies)** → PhD, 2 Master's, Bachelor's  
+🏅 **[Certifications & Training (2025)](#-microcredentials--professional-certifications-2025)** → 6 Microcredentials + Workshops  
+📈 **[Timeline & Achievements](#-academic-timeline)**
+
 ---
 
 ## 🎓 Academic Qualifications
