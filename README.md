@@ -21,12 +21,11 @@ From childhood, I've been fascinated by the microscopic world. While other kids 
 
 ## 🔬 Professional Highlights
 
-- 🧬 **PhD in Molecular Biology & Microbiology** with focus on genomics and cell biology ([Read thesis →](https://docta.ucm.es/entities/publication/42ba6d09-ccad-431c-ac07-58b669e1cfc5))
-- 🤖 **Currently Studying**: Master's in Artificial Intelligence (UNIR) + Data Science & AI Bootcamp (UpgradeHub)
-- 🔭 **Current Position**: Research Staff at IQF CSIC, working on in silico crystallography and drug-target interactions
-- 💻 **Technical Skills**: Python, R, AI/ML, NGS data analysis, structural biology, microscopy
-- 🌍 **Multilingual**: Spanish (native), English (C1), Italian (B2)
-- 📚 **4+ years** of doctoral research at CIB CSIC studying vesicular traffic in *Aspergillus nidulans*
+- 🧬 **PhD in Molecular Biology & Microbiology** - 4+ years investigating vesicular traffic and functional genomics in *Aspergillus* cell biology at CIB CSIC ([Read thesis →](https://docta.ucm.es/entities/publication/42ba6d09-ccad-431c-ac07-58b669e1cfc5)).
+- 🤖 **Currently Studying**: Master's in Artificial Intelligence (UNIR) + Data Science & AI Bootcamp (UpgradeHub).
+- 🔭 **Current Position**: Research Staff at IQF CSIC, working on *in silico crystallography* and drug-target interactions.
+- 💻 **Technical Skills**: Python, R, AI/ML, NGS data analysis, structural molecular biology, microscopy.
+- 🌍 **Multilingual**: Spanish (native), English (C1), Italian (B2).
 - 🎓 **200+ hours** of professional training and certifications in 2025
 
 ---
@@ -87,12 +86,12 @@ I'm always open to discussing research collaborations, innovative projects, or o
 
 ## 🚀 Current Focus
 
-- **Advanced Education**: Pursuing Master's in AI (UNIR) and intensive Data Science bootcamp (UpgradeHub)
-- In silico crystallographic studies for drug-target interaction analysis
-- Structural biology techniques for drug discovery
-- **AI/ML Applications**: Deep learning for protein structure prediction and drug design
-- Computational approaches to complex biological systems
-- Building expertise in modern AI frameworks (TensorFlow, PyTorch) for biological research
+- **Advanced Education**: Pursuing Master's in AI (UNIR) and intensive Data Science bootcamp (UpgradeHub).
+- In silico crystallographic studies for drug-target interaction analysis.
+- Structural biology techniques for drug discovery.
+- **AI/ML Applications**: Deep learning for protein structure prediction and drug design.
+- Computational approaches to complex biological systems.
+- Building expertise in modern AI frameworks (TensorFlow, PyTorch) for biological research.
 
 ---
 

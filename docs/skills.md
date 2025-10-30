@@ -30,170 +30,84 @@
 
 ### Programming Languages
 
-#### Python
-**Proficiency: Advanced**
-
-```python
-# Areas of expertise:
-skills = {
-    "data_analysis": ["pandas", "numpy", "scipy"],
-    "visualization": ["matplotlib", "seaborn", "plotly"],
-    "bioinformatics": ["biopython", "pysam", "scikit-bio"],
-    "machine_learning": ["scikit-learn", "basic deep learning"],
-    "automation": ["scripting", "pipeline development"]
-}
-```
-
-**Applications:**
-- NGS data processing and analysis
-- Data visualization and reporting
-- Automation of laboratory workflows
-- Statistical analysis
-- Pipeline development
-
----
-
-#### R
-**Proficiency: Advanced**
-
-```r
-# Key packages and skills:
-skills <- list(
-  data_analysis = c("tidyverse", "dplyr", "tidyr"),
-  statistics = c("statistical modeling", "hypothesis testing"),
-  visualization = c("ggplot2", "plotly"),
-  bioinformatics = c("Bioconductor packages", "DESeq2", "edgeR"),
-  genomics = c("genomic data analysis", "variant calling")
-)
-```
-
-**Applications:**
-- Statistical analysis and modeling
-- Bioinformatics pipelines
-- Data visualization
-- Genomic data analysis
-- Reproducible research (R Markdown)
-
----
-
-#### Bash/Shell Scripting
-**Proficiency: Intermediate**
-
-- Command-line interface expertise
-- Automation scripts
-- Pipeline orchestration
-- Linux system administration
-- High-performance computing workflows
+| Language | Key Libraries & Tools | Applications |
+|----------|----------------------|--------------|
+| **Python** | pandas, numpy, scipy, matplotlib, seaborn, plotly, biopython, scikit-learn | NGS data analysis, data visualization, workflow automation, statistical analysis, pipeline development, machine learning |
+| **R** | tidyverse, dplyr, ggplot2, Bioconductor, DESeq2, edgeR | Statistical modeling, bioinformatics pipelines, genomic data analysis, differential expression analysis |
+| **Bash/Shell** | Command-line tools, scripting | Automation scripts, pipeline orchestration, Linux system administration |
 
 ---
 
 ### Bioinformatics Tools
 
-- **NGS Analysis** - Next-Generation Sequencing data processing
-- **IGV** - Integrative Genomics Viewer
-- **Geneious** - Sequence analysis and visualization
-- **BLAST** - Sequence alignment and homology searches
-- **Variant Calling** - Genomic variation identification
-- Genomic variation analysis
-- Transcriptomics data analysis
-- Gene annotation and functional analysis
-- Differential expression analysis
-- Quality control of sequencing data
+- **NGS Analysis** - Next-Generation Sequencing data processing.
+- **IGV** - Integrative Genomics Viewer.
+- **Geneious** - Sequence analysis and visualization.
+- **BLAST** - Sequence alignment and homology searches.
+- **Variant Calling** - Genomic variation identification.
+- Gene annotation and functional analysis.
+- Differential expression analysis.
 
 ---
 
 ### Image Analysis Software
 
-- **MetaMorph** - Fluorescence microscopy analysis
-- **ImageJ/Fiji** - Image processing and analysis
-- **CorelDraw** - Scientific figure preparation
-- Fluorescence microscopy image analysis
-- Quantitative image analysis
-- Scientific figure preparation
-- Image processing and enhancement
+- **MetaMorph** - Fluorescence microscopy analysis.
+- **ImageJ/Fiji** - Image processing and analysis.
+- **CorelDraw** - Scientific figure preparation.
+- Scientific figure preparation.
+- Image processing and enhancement.
 
 ---
 
 ### Molecular Modeling
 
-- **AlphaFold3** - AI-powered protein structure prediction
-- **Blitz2** - Protein structure analysis and modeling
-- **PyMOL** - Molecular visualization and analysis
-- **Mercury** - Crystal structure visualization
-- **WinCoot** - Crystallographic model building
-- Protein structure visualization and analysis
-- AI-driven structure prediction
-- In silico crystallography
-- Drug-target interaction analysis
-- Structural modeling and refinement
-- Molecular graphics and rendering
-- Structure-based drug design
+- **AlphaFold3** - AI-powered protein structure prediction.
+- **RFdiffusion2** - AI-driven protein design and generation.
+- **PyMOL** - Molecular visualization and analysis.
+- **Blitz2** - Protein structure analysis and modeling.
+- In silico crystallography and drug-target interaction analysis.
+- Structure-based drug design and structural modeling.
 
 ---
 
 ## 🔬 Laboratory Techniques
 
-### Molecular Biology
-- PCR / qPCR
-- DNA/RNA Extraction
-- Gel Electrophoresis
-- Cloning & Plasmid Construction
-- CRISPR/Cas9 Genome Editing
-- Western Blotting
-- DNA Sequencing
-- NGS (Next-Generation Sequencing)
+**Molecular Biology** - PCR/qPCR, DNA/RNA extraction, gel electrophoresis, cloning, CRISPR/Cas9 genome editing, Western blotting, NGS sequencing.
 
-### Protein Techniques
-- Protein Purification (HPLC)
-- SDS-PAGE
-- Protein Expression
-- Protein-Protein Interactions
-- Enzyme Immobilization
-- Protein Quantification
+**Protein Techniques** - HPLC purification, SDS-PAGE, protein expression and quantification, protein-protein interactions, enzyme immobilization.
 
-### Cell Biology & Microscopy
-- Fluorescence Microscopy
-- Live Cell Imaging
-- Immunofluorescence
-- Confocal Microscopy
-- Cell Culture (Bacterial, Fungal, Mammalian)
-- Cell Viability Assays
+**Cell Biology & Microscopy** - Fluorescence and confocal microscopy, live cell imaging, immunofluorescence, cell culture (bacterial, fungal, mammalian), viability assays.
 
-### Microbiology
-- Bacterial Culture
-- Fungal Culture
-- Microbial Identification
-- BSL-2 Laboratory Work (Certified)
-- Antibiotic Susceptibility Testing
-- Microbial Transformation
+**Microbiology** - Bacterial and fungal culture, microbial identification and transformation, BSL-2 certified laboratory work, antibiotic susceptibility testing.
 
 ---
 
 ## 🧠 Soft Skills
 
-- **Project Management** - Planning and coordinating research projects, timeline management, resource allocation
-- **Mentorship & Supervision** - Supervising undergraduate and master's students, training laboratory members
-- **Leadership** - Leading research initiatives, team coordination, decision-making
-- **Scientific Writing** - Research papers, technical reports, grant proposals
-- **Presentations** - Conference presentations, laboratory meetings, teaching and lectures
-- **Teaching** - Secondary education experience, student mentorship, workshop facilitation
+- **Project Management** - Planning and coordinating research projects, timeline management, resource allocation.
+- **Mentorship & Supervision** - Supervising undergraduate and master's students, training laboratory members.
+- **Leadership** - Leading research initiatives, team coordination, decision-making.
+- **Scientific Writing** - Research papers, technical reports, grant proposals.
+- **Presentations** - Conference presentations, laboratory meetings, teaching and lectures.
+- **Teaching** - Secondary education experience, student mentorship, workshop facilitation.
 
 ---
 
 ## 🌍 Languages
 
-- **Spanish** - Native Speaker 🇪🇸
-- **English** - C1 Level (Advanced) - Cambridge Advanced English (CAE) 🇬🇧
-- **Italian** - B2 Level (Upper Intermediate) 🇮🇹
+- **Spanish** - Native Speaker 🇪🇸.
+- **English** - C1 Level (Advanced) - Cambridge Advanced English (CAE) 🇬🇧.
+- **Italian** - B2 Level (Upper Intermediate) 🇮🇹.
 
 ---
 
 ##  Innovation & Adaptability
 
-- Quick learner with strong adaptability to new technologies
-- Experience transitioning between wet lab and computational work
-- Ability to integrate multiple disciplines (biology, chemistry, computer science, AI)
-- Continuous learning mindset with ongoing skill development
+- Quick learner with strong adaptability to new technologies.
+- Experience transitioning between wet lab and computational work.
+- Ability to integrate multiple disciplines (biology, chemistry, computer science, AI).
+- Continuous learning mindset with ongoing skill development.
 
 ---
 

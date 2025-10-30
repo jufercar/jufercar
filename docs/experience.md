@@ -24,13 +24,14 @@
 *December 2024 – Present*
 
 #### Key Responsibilities
-- 🧪 Conducting **in silico crystallographic studies** to analyze drug-target interactions
-- 🔬 Contributing to **drug discovery projects** through structural biology techniques
-- 💻 Utilizing specialized software for structural biology assays
-- 🎯 Analyzing enzybiotics-peptidoglycan interactions
+- 🧪 Conducting ***in silico* crystallographic studies** to analyze drug-target interactions.
+- 💻 Utilizing specialized software for structural biology assays.
+- 🎯 Analyzing enzybiotics-peptidoglycan interactions.
 
 #### Impact
 Working on cutting-edge research to advance drug discovery through computational structural biology, contributing to the development of novel therapeutic approaches.
+
+**[Learn more about this](https://jiperez3.wixsite.com/perezdorado-group)**
 
 ---
 
@@ -43,32 +44,17 @@ Investigation of **vesicular traffic in *Aspergillus nidulans***, focusing on fu
 
 #### Key Achievements & Responsibilities
 
-**Experimental Design & Execution:**
-- 🔬 Designed and executed comprehensive experiments in:
-  - Fluorescence microscopy
-  - Biochemistry
-  - Molecular genetics
-  - Cell biology
-
-**Genomic Analysis:**
-- 🧬 Performed **NGS (Next-Generation Sequencing) data analysis** to identify genomic variations
-- 📊 Conducted transcriptomics studies to understand gene expression patterns
-- 🔍 Implemented genome editing experiments using CRISPR/Cas9 technology
-
-**Protein Studies:**
-- 🧪 Purified and characterized proteins using:
-  - HPLC (High-Performance Liquid Chromatography)
-  - SDS-PAGE
-  - Western blot
-- 🔗 Analyzed protein-protein interactions
-- 📈 Quantified protein expression levels
+- 🔬 Fluorescence microscopy, biochemistry, molecular genetics, cell biology.
+- 🧬 NGS data analysis for genomic variation identification.
+- 🧪 Protein purification and characterization (HPLC, SDS-PAGE, Western blot).
+- 🔗 Protein-protein interaction analysis and quantification.
 
 **Additional Contributions:**
-- 👥 Supervised undergraduate and master's students
-- 📝 Contributed to scientific publications and presentations
-- 🤝 Collaborated with interdisciplinary research teams
+- 👥 Supervised undergraduate and master's students.
+- 📝 Contributed to scientific publications and presentations.
+- 🤝 Collaborated with interdisciplinary research teams.
 
-**[Learn more about CIB-CSIC](https://www.cib.csic.es/)**
+**[Learn more about this](https://cib.csic.es/research/molecular-and-cellular-biosciences/aspergillus-cell-biology)**
 
 ---
 
@@ -77,13 +63,9 @@ Investigation of **vesicular traffic in *Aspergillus nidulans***, focusing on fu
 *November 2019 – August 2020*
 
 #### Key Responsibilities
-- 🦠 Conducted research in **microbiology** and **molecular diagnostics**
-- 🧬 Developed and optimized **diagnostic techniques** for pathogen detection
-- 🔬 Performed **qPCR-based assays** for:
-  - Pathogen detection
-  - Genetic analysis
-  - Quantitative gene expression studies
-- 🛡️ Worked in a **BSL-2 (Biosafety Level 2) laboratory** maintaining strict safety protocols
+- 🦠 Conducted research in **microbiology** and **molecular diagnostics**.
+- 🧬 Developed and optimized **molecular diagnostic techniques** for pathogen detection.
+- 🛡️ Worked in a **BSL-2 (Biosafety Level 2) laboratory** maintaining strict safety protocols.
 
 #### Technologies Used
 - Real-time PCR (qPCR)
@@ -105,9 +87,9 @@ Contributed to the development of molecular diagnostic methods for aerospace-rel
 *September 2024 – December 2024*
 
 #### Responsibilities
-- 📚 Taught **mathematics** at secondary education level
-- 👨‍🏫 Developed lesson plans and educational materials
-- 📊 Assessed student performance and provided constructive feedback
+- 📚 Taught **mathematics** at secondary education level.
+- 👨‍🏫 Developed lesson plans and educational materials.
+- 📊 Assessed student performance and provided constructive feedback.
 
 ---
 
@@ -118,17 +100,13 @@ Contributed to the development of molecular diagnostic methods for aerospace-rel
 *June 2017 – September 2017*
 
 #### Activities
-- 🔬 Applied **molecular biology techniques** in a microbiology research project
-- 🔭 Conducted **in vivo fluorescence microscopy** for cellular imaging
-- 🧪 Assisted in experimental design and data analysis
-- 🤝 Collaborated with international research team
+- 🔬 Applied **molecular biology techniques** in a microbiology research project.
+- 🔭 Conducted ***in vivo* fluorescence microscopy** for cellular imaging.
+- 🧪 Assisted in experimental design and data analysis.
+- 🤝 Collaborated with international research team.
 
-#### Skills Gained
-- International research collaboration
-- Advanced microscopy techniques
-- Cross-cultural communication
-- Independent research capabilities
 
+**[Visit Group Website](http://www.firstfloorlab.com/)**
 ---
 
 ## 📈 Career Timeline

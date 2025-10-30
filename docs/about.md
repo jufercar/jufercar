@@ -10,12 +10,12 @@ Over time, that passion for science grew and led me to biotechnology, where I di
 
 ## Who I Am Today
 
-I am an **independent researcher in molecular biology and microbiology** with extensive experience in:
+I am an **independent researcher in molecular biology and microbiology** with experience in:
 
-- 🔬 **Cell Biology**: Understanding cellular mechanisms and processes
-- 🧬 **Molecular Biology**: Gene editing, protein expression, and functional genomics
-- 💻 **Bioinformatics**: NGS data analysis, genomic variation studies, and computational biology
-- 🔭 **Structural Biology**: In silico crystallography and molecular modeling
+- 🔬 **Cell Biology**: Understanding cellular mechanisms and processes.
+- 🧬 **Molecular Biology**: Gene editing, protein expression, and functional genomics.
+- 💻 **Bioinformatics**: NGS data analysis, genomic variation studies, and computational biology.
+- 🔭 **Structural Biology**: *In silico* crystallography and molecular modeling.
 
 My academic and professional journey spans from research in advanced microscopy to the development of methodologies in molecular biology. In addition to my technical expertise, I have experience in **project management**, including supervising new students and staff and coordinating research tasks.
 
@@ -23,15 +23,14 @@ My academic and professional journey spans from research in advanced microscopy 
 
 ## What Drives Me
 
-With strong **problem-solving skills**, **resilience**, and a commitment to scientific excellence, I thrive in multidisciplinary environments and collaborative projects. I am proficient in multiple programming languages and bioinformatics tools, and I continuously seek innovative approaches to tackle complex biological challenges.
+With strong **problem-solving skills**, **resilience**, and a **commitment** to scientific excellence, I thrive in multidisciplinary environments and collaborative projects. I am proficient in multiple programming languages and bioinformatics tools, and I continuously seek innovative approaches to tackle complex biological challenges.
 
 ### Core Values
 
-- 🎯 **Scientific Rigor**: Commitment to high-quality, reproducible research
-- 🤝 **Collaboration**: Believing in the power of interdisciplinary teamwork
-- 📚 **Continuous Learning**: Always exploring new technologies and methodologies
-- 💡 **Innovation**: Applying creative solutions to complex biological problems
-- 🌱 **Mentorship**: Helping the next generation of scientists grow
+- 🎯 **Scientific Rigor**: Commitment to high-quality, reproducible research.
+- 🤝 **Collaboration**: Believing in the power of interdisciplinary teamwork.
+- 📚 **Continuous Learning**: Always exploring new technologies and methodologies.
+- 💡 **Innovation**: Applying creative solutions to complex biological problems.
 
 ---
 
@@ -39,10 +38,10 @@ With strong **problem-solving skills**, **resilience**, and a commitment to scie
 
 I believe that the most significant breakthroughs in science come from:
 
-1. **Asking the right questions** – Starting with clear, focused hypotheses
-2. **Using the right tools** – Leveraging cutting-edge technology and methodology
-3. **Collaborating effectively** – Working across disciplines and sharing knowledge
-4. **Staying curious** – Never losing the wonder that first sparked my love for science
+1. **Asking the right questions** – Starting with clear, focused hypotheses.
+2. **Using the right tools** – Leveraging cutting-edge technology and methodology.
+3. **Collaborating effectively** – Working across disciplines and sharing knowledge.
+4. **Staying curious** – Never losing the wonder that first sparked my love for science.
 
 ---
 
@@ -50,10 +49,11 @@ I believe that the most significant breakthroughs in science come from:
 
 When I'm not conducting research or analyzing data, I enjoy:
 
-- 📖 Reading about scientific advances and emerging technologies
-- 🌍 Exploring different cultures (hence my interest in languages!)
-- 🎓 Teaching and mentoring young scientists
-- 💻 Developing computational tools and pipelines
+- 📖 Reading about scientific advances and emerging technologies.
+- 🌍 Exploring different cultures (hence my interest in languages and in travelling!)
+- 💻 Developing computational tools and pipelines.
+- 🎮 Gaming and exploring virtual worlds.
+- 🤝 Spending quality time with friends.
 
 ---
 
@@ -61,10 +61,10 @@ When I'm not conducting research or analyzing data, I enjoy:
 
 My current focus is on:
 
-- Advancing **drug discovery** through structural biology techniques
-- Developing **computational approaches** for complex biological systems
-- Exploring **AI/ML applications** in structural biology
-- Contributing to **open science** and reproducible research
+- Advancing **drug discovery** through structural biology techniques.
+- Developing **computational approaches** for complex biological systems.
+- Exploring **AI/ML applications** in structural biology.
+- Contributing to **open science** and reproducible research.
 
 I'm always excited to connect with fellow researchers, collaborate on innovative projects, or discuss new opportunities in biotechnology and bioinformatics.
 
