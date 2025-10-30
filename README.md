@@ -5,6 +5,8 @@
 > *Independent researcher in molecular biology and microbiology with expertise in cell biology, structural modeling, and computational biology. Passionate about leveraging cutting-edge technologies to solve complex biological challenges.*
 
 [![Email](https://img.shields.io/badge/Email-juanfernandezcarrillo%40gmail.com-blue)](mailto:juanfernandezcarrillo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanfercar-0077B5?logo=linkedin)](https://www.linkedin.com/in/juanfercar/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0342--8729-A6CE39?logo=orcid)](https://orcid.org/0000-0002-0342-8729)
 [![Location](https://img.shields.io/badge/Location-Madrid%2C%20Spain-red)](https://maps.google.com/?q=Madrid,Spain)
 
 ---
@@ -19,7 +21,7 @@ From childhood, I've been fascinated by the microscopic world. While other kids 
 
 ## 🔬 Professional Highlights
 
-- 🧬 **PhD in Molecular Biology & Microbiology** with focus on genomics and cell biology
+- 🧬 **PhD in Molecular Biology & Microbiology** with focus on genomics and cell biology ([Read thesis →](https://docta.ucm.es/entities/publication/42ba6d09-ccad-431c-ac07-58b669e1cfc5))
 - 🤖 **Currently Studying**: Master's in Artificial Intelligence (UNIR) + Data Science & AI Bootcamp (UpgradeHub)
 - 🔭 **Current Position**: Research Staff at IQF CSIC, working on in silico crystallography and drug-target interactions
 - 💻 **Technical Skills**: Python, R, AI/ML, NGS data analysis, structural biology, microscopy

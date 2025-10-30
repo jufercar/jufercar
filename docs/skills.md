@@ -1,6 +1,41 @@
 # Skills & Competencies
 
-## 💻 Technical Skills
+## � Table of Contents
+
+- [💻 Technical Skills](#-technical-skills)
+  - [Programming Languages](#programming-languages)
+    - [Python](#python)
+    - [R](#r)
+    - [Bash/Shell Scripting](#bashshell-scripting)
+  - [Bioinformatics Tools](#bioinformatics-tools)
+  - [Image Analysis Software](#image-analysis-software)
+  - [Molecular Modeling](#molecular-modeling)
+  - [Operating Systems](#operating-systems)
+  - [Office & Productivity Software](#office--productivity-software)
+- [🔬 Laboratory Techniques](#-laboratory-techniques)
+  - [Molecular Biology](#molecular-biology)
+  - [Protein Techniques](#protein-techniques)
+  - [Cell Biology & Microscopy](#cell-biology--microscopy)
+  - [Microbiology](#microbiology)
+- [🧠 Soft Skills](#-soft-skills)
+  - [Leadership & Management](#leadership--management)
+  - [Communication](#communication)
+  - [Problem-Solving & Analytical Skills](#problem-solving--analytical-skills)
+  - [Collaboration](#collaboration)
+- [🌍 Languages](#-languages)
+  - [Spanish](#spanish)
+  - [English](#english)
+  - [Italian](#italian)
+- [📊 Skills Matrix](#-skills-matrix)
+- [🎯 Professional Development](#-professional-development)
+  - [Current Focus Areas (2025)](#current-focus-areas-2025)
+  - [Recent Certifications & Training (2025)](#recent-certifications--training-2025)
+- [📊 2025 Learning Metrics](#-2025-learning-metrics)
+- [💡 Innovation & Adaptability](#-innovation--adaptability)
+
+---
+
+## �💻 Technical Skills
 
 ---
 

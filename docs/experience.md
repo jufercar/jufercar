@@ -1,6 +1,21 @@
 # Professional Experience
 
-## 🔬 Research Positions
+## � Table of Contents
+
+- [🔬 Research Positions](#-research-positions)
+  - [Research Staff - IQF CSIC (Dec 2024 - Present)](#research-staff)
+  - [PhD Candidate - CIB CSIC (Sep 2020 - Aug 2024)](#phd-candidate--molecular-biology)
+  - [Molecular Biologist - INTA (Nov 2019 - Aug 2020)](#molecular-biologist)
+- [🎓 Teaching Experience](#-teaching-experience)
+  - [Secondary Education Teacher (Sep 2024 - Dec 2024)](#secondary-education-teacher-mathematics)
+- [🌍 International Experience](#-international-experience)
+  - [Collaborator Student - BIOCEV Prague (Jun 2017 - Sep 2017)](#collaborator-student)
+- [📈 Career Timeline](#-career-timeline)
+- [🏆 Key Competencies Demonstrated](#-key-competencies-demonstrated)
+
+---
+
+## �🔬 Research Positions
 
 ---
 

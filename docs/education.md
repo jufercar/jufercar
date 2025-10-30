@@ -1,5 +1,28 @@
 # Education
 
+## 📑 Table of Contents
+
+- [🔄 Current Studies (2025 - Present)](#-current-studies-2025---present)
+  - [Master's in Artificial Intelligence (UNIR)](#masters-in-artificial-intelligence)
+  - [Data Analysis & AI Bootcamp (UpgradeHub)](#data-analysis--artificial-intelligence-bootcamp)
+- [🎓 Doctoral Studies](#doctoral-studies)
+  - [PhD in Microbiology and Parasitology](#phd-in-microbiology-and-parasitology)
+- [🎓 Master's Degrees](#masters-degrees)
+  - [Master's in Secondary Education Teacher Training](#masters-in-secondary-education-teacher-training)
+  - [Master's in Industrial and Environmental Biotechnology](#masters-in-industrial-and-environmental-biotechnology)
+- [🎓 Undergraduate Degree](#undergraduate-degree)
+  - [Bachelor's in Biotechnology](#bachelors-in-biotechnology)
+- [🏅 Microcredentials & Professional Certifications (2025)](#-microcredentials--professional-certifications-2025)
+- [📚 Continuing Education & Specialized Training](#-continuing-education--specialized-training)
+  - [Professional Workshops & Events (2025)](#professional-workshops--events-2025)
+  - [Advanced Technical Training](#advanced-technical-training)
+- [🎤 Teaching & Outreach](#-teaching--outreach)
+- [📈 Academic Timeline](#-academic-timeline)
+- [🏆 Academic Achievements](#-academic-achievements)
+- [🎯 Skills Acquired Through Education](#-skills-acquired-through-education)
+
+---
+
 ## 🎓 Academic Qualifications
 
 ---
@@ -74,7 +97,10 @@ Investigation of vesicular traffic mechanisms in *Aspergillus nidulans* with emp
 #### Institution
 Centro de Investigaciones Biológicas Margarita Salas - CSIC
 
-**[View PhD Program Details](https://www.ucm.es/doctorado-microbiologia)**
+#### Thesis Publication
+**[Read Full Thesis →](https://docta.ucm.es/entities/publication/42ba6d09-ccad-431c-ac07-58b669e1cfc5)**
+
+Available at Universidad Complutense de Madrid's institutional repository (DOCTA).
 
 ---
 
@@ -98,6 +124,16 @@ Mathematics
 - Development of educational materials
 - Student assessment and feedback strategies
 
+#### Master's Thesis
+**"Discovering Antibiotics Through a Service-Learning Methodology Based on the Small World Initiative"**
+
+Research project focused on:
+- 🦠 Antibiotic discovery through citizen science
+- 🎓 Service-learning pedagogical approach
+- 🌍 Small World Initiative (SWI) methodology
+- 🧪 Engaging students in real scientific research
+- 📚 Combining education with practical microbiological research
+
 **[View Program Curriculum](https://www.ucm.es/master-profesor-secundaria)**
 
 ---
@@ -119,8 +155,15 @@ Mathematics
 - Environmental applications of biotechnology
 - Bioinformatics tools and data analysis
 
-#### Thesis Project
-Molecular biology research at INTA (National Institute for Aerospace Technology)
+#### Master's Thesis
+**"Immobilization of Aculeacin A Acylase from *Actinoplanes utahensis*"**
+
+Research focused on:
+- 🧬 Enzyme immobilization techniques
+- 🔬 Industrial biotechnology applications
+- 🧪 Biocatalysis and bioprocess optimization
+- 📊 Characterization of immobilized enzyme systems
+- 💼 Research conducted at INTA (National Institute for Aerospace Technology)
 
 **[View Program Details](https://www.ucm.es/master-biotecnologia)**
 
