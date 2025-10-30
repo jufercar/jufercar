@@ -3,28 +3,14 @@
 ## 📑 Table of Contents
 
 - [💻 Technical Skills](#-technical-skills)
-  - [Programming Languages](#programming-languages)
-    - [Python](#python)
-    - [R](#r)
-    - [Bash/Shell Scripting](#bashshell-scripting)
-  - [Bioinformatics Tools](#bioinformatics-tools)
-  - [Image Analysis Software](#image-analysis-software)
-  - [Molecular Modeling](#molecular-modeling)
 - [🔬 Laboratory Techniques](#-laboratory-techniques)
-  - [Molecular Biology](#molecular-biology)
-  - [Protein Techniques](#protein-techniques)
-  - [Cell Biology & Microscopy](#cell-biology--microscopy)
-  - [Microbiology](#microbiology)
 - [🧠 Soft Skills](#-soft-skills)
 - [🌍 Languages](#-languages)
-  - [Spanish](#spanish)
-  - [English](#english)
-  - [Italian](#italian)
 - [ Innovation & Adaptability](#-innovation--adaptability)
 
 ---
 
-## �💻 Technical Skills
+## 💻 Technical Skills
 
 ---
 

@@ -1,36 +1,5 @@
 # Education
 
-## 📑 Table of Contents
-
-- [🔄 Current Studies (2025 - Present)](#-current-studies-2025---present)
-  - [Master's in Artificial Intelligence (UNIR)](#masters-in-artificial-intelligence)
-  - [Data Analysis & AI Bootcamp (UpgradeHub)](#data-analysis--artificial-intelligence-bootcamp)
-- [🎓 Doctoral Studies](#doctoral-studies)
-  - [PhD in Microbiology and Parasitology](#phd-in-microbiology-and-parasitology)
-- [🎓 Master's Degrees](#masters-degrees)
-  - [Master's in Secondary Education Teacher Training](#masters-in-secondary-education-teacher-training)
-  - [Master's in Industrial and Environmental Biotechnology](#masters-in-industrial-and-environmental-biotechnology)
-- [🎓 Undergraduate Degree](#undergraduate-degree)
-  - [Bachelor's in Biotechnology](#bachelors-in-biotechnology)
-- [🏅 Microcredentials & Professional Certifications (2025)](#-microcredentials--professional-certifications-2025)
-- [📚 Continuing Education & Specialized Training](#-continuing-education--specialized-training)
-  - [Professional Workshops & Events (2025)](#professional-workshops--events-2025)
-  - [Advanced Technical Training](#advanced-technical-training)
-- [🎤 Teaching & Outreach](#-teaching--outreach)
-- [📈 Academic Timeline](#-academic-timeline)
-- [🏆 Academic Achievements](#-academic-achievements)
-- [🎯 Skills Acquired Through Education](#-skills-acquired-through-education)
-
-
-## 📑 Quick Navigation
-
-**Current Studies** | **Degrees** | **Certifications** | **Training** | **Timeline**
----|---|---|---|---
-[AI Master (UNIR)](#masters-in-artificial-intelligence) | [PhD](#phd-in-microbiology-and-parasitology) | [Microcredentials](#-microcredentials--professional-certifications-2025) | [Workshops](#professional-workshops--events-2025) | [Timeline](#-academic-timeline)
-[Data Science Bootcamp](#data-analysis--artificial-intelligence-bootcamp) | [Master's Degrees](#masters-degrees) | | [Technical Training](#advanced-technical-training) | [Achievements](#-academic-achievements)
-| | [Bachelor's](#bachelors-in-biotechnology) | | [Teaching](#-teaching--outreach) | [Skills](#-skills-acquired-through-education)
-
-
 ## 📑 Navigation
 
 🎓 **[Current Education (2025)](#-current-studies-2025---present)** → Master's AI + Bootcamp  
